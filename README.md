@@ -98,7 +98,7 @@ The project contains multiple sections including college information, courses, l
 ```text
 DPGITM-College-Website/
 │
-├── Day6Practice.html
+├── FinalProject.html
 ├── College logo.png
 ├── output1.png
 ├── output2.png
